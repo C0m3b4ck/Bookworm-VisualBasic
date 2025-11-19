@@ -1,4 +1,5 @@
 <a href=https://github.com/C0m3b4ck/Bookworm-VisualBasic/README_PL.md>🇵🇱🇵🇱🇵🇱🇵🇱🇵🇱POLSKA WERSJA🇵🇱🇵🇱🇵🇱🇵🇱🇵🇱🇵🇱</a>
+![GitHub All Releases](https://img.shields.io/github/downloads/C0m3b4ck/Bookworm-VisualBasic/total)
 # Bookworm Visual Basic 6
 Version of the library management program Bookworm but in Visual Basic 6.0
 
@@ -10,7 +11,7 @@ Version of the library management program Bookworm but in Visual Basic 6.0
 
 # Why?
 * Python (original) version was becoming more bloated, convoluted and harder to compile with problematic dependencies.
-* Visual Basic has greater compatibility - Bookworm is intended for Windows 11 and beyond
+* Visual Basic has greater compatibility - it supports from Windows 98 up to Windows 11
 * As I have been using the program's Python version, I have noticed many QoL fixes that I need to implement
 
 # Author
