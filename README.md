@@ -1,5 +1,5 @@
 <a href=https://github.com/C0m3b4ck/Bookworm-VisualBasic/README_PL.md>🇵🇱🇵🇱🇵🇱🇵🇱🇵🇱POLSKA WERSJA🇵🇱🇵🇱🇵🇱🇵🇱🇵🇱🇵🇱</a>
-![GitHub All Releases](https://img.shields.io/github/downloads/C0m3b4ck/Bookworm-VisualBasic/total)
+<br>![GitHub All Releases](https://img.shields.io/github/downloads/C0m3b4ck/Bookworm-VisualBasic/total)
 # Bookworm Visual Basic 6
 Version of the library management program Bookworm but in Visual Basic 6.0
 
