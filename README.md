@@ -11,7 +11,7 @@ Version of the library management program Bookworm but in Visual Basic 6.0
 
 # Why?
 * Python (original) version was becoming more bloated, convoluted and harder to compile with problematic dependencies.
-* Visual Basic has greater compatibility - it supports from Windows 98 up to Windows 11
+* Visual Basic has greater compatibility - it supports from Windows 98 up to Windows 11 (Windows 98, Windows NT 4.0 and 4.1, Windows 2000, Windows ME, Windows XP, Windows Vista, Windows 7, Windows 8 and 8.1, Windows 10, Windows 11)
 * As I have been using the program's Python version, I have noticed many QoL fixes that I need to implement
 
 # Author
