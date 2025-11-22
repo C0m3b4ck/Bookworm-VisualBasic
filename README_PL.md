@@ -11,7 +11,7 @@ Wersja programu do zarządzania biblioteką, Bookworm, stworzony w języku Visua
 
 # Dlaczego?
 * Orginalna wersja w języku Python zawierała wiele zaśmiecenia w kodzie, kompilacja utrudniona problematycznymi bibliotekami
-* Visual Basic ma większe wsparcie na Windows - działa od Windows 98 po Windows 11
+* Visual Basic ma większe wsparcie na Windows - działa od Windows 98 po Windows 11 (wspiera Windows 98, Windows NT 4.0 and 4.1, Windows 2000, Windows ME, Windows XP, Windows Vista, Windows 7, Windows 8 and 8.1, Windows 10, Windows 11)
 * Podczas użytkowania wersji Python zauważyłem bardzo wiele poprawek QoL
 
 # Autor
