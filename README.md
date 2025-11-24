@@ -8,7 +8,7 @@ Version of the library management program Bookworm but in Visual Basic 6.0. Supp
 * Privacy - encrypted databases for users without correct credentials
 * Easy installation and portability - no dependencies need to be installed by user
 * Overall user convenience and ease of use, yet advanced management for admins and superadmins
-  Past, present and future compatibility with Windows
+* Past, present and future compatibility with Windows
 
 # Why?
 * Python (original) version was becoming more bloated, convoluted and harder to compile with problematic dependencies.
