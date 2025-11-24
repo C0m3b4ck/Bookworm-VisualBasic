@@ -1,7 +1,8 @@
 <a href=https://github.com/C0m3b4ck/Bookworm-VisualBasic/blob/main/README_PL.md>🇵🇱🇵🇱🇵🇱🇵🇱🇵🇱POLSKA WERSJA🇵🇱🇵🇱🇵🇱🇵🇱🇵🇱🇵🇱</a>
 <br>![GitHub All Releases](https://img.shields.io/github/downloads/C0m3b4ck/Bookworm-VisualBasic/total)
 # Bookworm Visual Basic 6
-Version of the library management program Bookworm but in Visual Basic 6.0. Supports from Windows 98 up to Windows 11 (Windows 98, Windows NT 4.0 and 4.1, Windows 2000, Windows ME, Windows XP, Windows Vista, Windows 7, Windows 8 and 8.1, Windows 10, Windows 11)
+Version of the library management program Bookworm but in Visual Basic 6.0. 
+<br><b>Supports from Windows 98 up to Windows 11 (Windows 98, Windows NT 4.0 and 4.1, Windows 2000, Windows ME, Windows XP, Windows Vista, Windows 7, Windows 8 and 8.1, Windows 10, Windows 11)</b>
 
 # Principles
 * Maximum speed, ease-of-use and efficiency
