@@ -18,3 +18,11 @@ Wersja programu do zarządzania biblioteką, Bookworm, stworzony w języku Visua
 
 # Autor
 Rozpoczęte 15 listopada 2025 przez C0m3b4ck. Częściowo użyto kodu od Kaustubh Navnath Kulkarni.
+
+# Zdjęcia
+<h3>Windows 95</h3>
+<img title="Windows 95" alt="Image from Windows 95" src="https://github.com/C0m3b4ck/Bookworm-VisualBasic/blob/main/screenshots/win95.png">
+<h3>Windows 98</h3>
+<img title="Windows 98" alt="Image from Windows 98" src="https://github.com/C0m3b4ck/Bookworm-VisualBasic/blob/main/screenshots/win98.png">
+<h3>Windows XP</h3>
+<img title="Windows XP" alt="Image from Windows XP" src="https://github.com/C0m3b4ck/Bookworm-VisualBasic/blob/main/screenshots/winXP.png">
