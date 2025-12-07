@@ -2,8 +2,8 @@
 <br>![GitHub All Releases](https://img.shields.io/github/downloads/C0m3b4ck/Bookworm-VisualBasic/total)
 # Bookworm Visual Basic 6
 Version of the library management program Bookworm but in Visual Basic 6.0. 
-<br><b>Supports from Windows 98 up to Windows 11 (Windows 98, Windows NT 4.0 and 4.1, Windows 2000, Windows ME, Windows XP, Windows Vista, Windows 7, Windows 8 and 8.1, Windows 10, Windows 11)</b>
-<br><i>Note: Windows 98 requires MSVCVB6.dll runtime DLL to function</i>
+<br><b>Supports from Windows 98 up to Windows 11 (Windows 98, Windows NT 4.0 and 4.1+, Windows 2000, Windows ME, Windows XP, Windows Vista, Windows 7, Windows 8 and 8.1, Windows 10, Windows 11)</b>
+<br><i>Note: Windows 98 requires MSVCVB6.dll runtime DLL to function, which is selected in the installer by default</i>
 
 # Principles
 * Maximum speed, ease-of-use and efficiency
