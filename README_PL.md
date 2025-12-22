@@ -3,8 +3,9 @@
 # Bookworm Visual Basic 6
 Wersja programu do zarządzania biblioteką, Bookworm, stworzony w języku Visual Basic 6.0 <br><b>Wspiera od Windows 95 do Windows 11 (Windows 95, Windows 98, Windows NT 4.0 and 4.1+, Windows 2000, Windows ME, Windows XP, Windows Vista, Windows 7, Windows 8 and 8.1, Windows 10, Windows 11)</b>
 <br><b>Wspiera Windows Server: Windows Server NT 4.0, Widows Server 2000, Widows Server 2003, Widows Server 2008, Widows Small Business Server 2008, Widows Server 2012, Widows Server 2012 R2, Widows Server 2016, Widows Server 2019, Widows Server 2022, Widows Server 2025
-<br><i>Note: Windows 95 and Windows 98 requires MSVCVB6.dll runtime DLL to function, which is selected in the installer by default</i>
 <br><i>Uwaga: Windows 95 i Windows 98 wymaga biblioteki MSVCVB6.dll aby działać, która jest automatycznie zaznaczona w instalatorze</i>
+<br>
+<br>---------> Na Windows 95 i 98, możesz zobaczyć błędy z powodu próby dostępu do C:\Win32 przez instalator. W takim przypadku, wciśnij "Ignoruj"/"Pomiń" w przypadku powiadomień o błędach z plikami .dll - nie zmieni to funkcjonalności programu <---------
 
 # Założenia
 * Prędkość i efektywność użycia
