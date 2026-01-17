@@ -19,7 +19,8 @@ Version of the library management program Bookworm but in Visual Basic 6.0.
 
     Windows XP (tested: x86, x32 and 64-bit, Home, Professional)
 
-    Windows Server (all versions including 2003, Small Business Server 2003, 2003 R2, Home Server, 2008, Small Business Server 2008, 2012, 2012 R2, 2016, 2019, 2022)
+    Windows Server (all versions including 2003, Small Business Server 2003, 2003 R2, Home Server,
+    2008, Small Business Server 2008, 2012, 2012 R2, 2016, 2019, 2022)
 
     Windows Vista
 
