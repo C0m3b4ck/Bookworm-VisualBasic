@@ -3,13 +3,56 @@
 # Bookworm Visual Basic 6
 Version of the library management program Bookworm but in Visual Basic 6.0. 
 <br>
-<br><b>Supports from Windows 95 up to Windows 11 (Windows 95, Windows 98, Windows NT 4.0 and 4.1 (like all NT versions), Windows 2000, Windows ME, Windows XP, Windows Vista, Windows 7, Windows 8 and 8.1, Windows 10, Windows 11)</b>
-<br><b>Supports Windows Server: Windows Server NT 4.0, Widows Server 2000, Widows Server 2003, Widows Server 2008, Widows Small Business Server 2008, Widows Server 2012, Widows Server 2012 R2, Widows Server 2016, Widows Server 2019, Widows Server 2022, Widows Server 2025
-<br>Supports Windows CE: Windows CE 1.0, Windows CE 2.0, Windows CE 2.1, Windows CE 2.11, Windows CE 2.12, Windows CE 3.0, Windows CE .NET 4.1, Windows CE .NET 4.2 
-<br>
-<br><i>Note: Windows 95 and Windows 98 requires MSVCVB6.dll runtime DLL to function, which is included in the program installer</i>
-<br>
-<br>---------> On Windows 95 and 98, you might get violation errors due to an attempt of accessing C:\Win32 by the installer. In that case, press "Ignore" for the missing .dlls and the program will function correctly. <---------
+<br><b>Supports all versions of Windows, from Windows 95 up to Windows 11:</b>
+
+    Windows 95
+
+    Windows NT 4.0
+
+    Windows 98
+
+    Windows 98 SE
+
+    Windows 2000
+
+    Windows Me
+
+    Windows XP (tested: x86, x32 and 64-bit, Home, Professional)
+
+    Windows Server (all versions including 2003, Small Business Server 2003, 2003 R2, Home Server, 2008, Small Business Server 2008, 2012, 2012 R2, 2016, 2019, 2022)
+
+    Windows Vista
+
+    Windows 7
+
+    Windows 8
+
+    Windows 8.1
+
+    Windows 10
+
+    Windows 11
+
+    (probable future desktop OS from Microsoft)
+
+<br><b>Untested, yet probably supported:</b>
+
+    Windows XP versions: Starter, Tablet PC, Media Center, Embedded
+
+    Windows Embedded for Point of Service
+
+    Windows Embedded Standard 2009
+
+    Windows Embedded POSReady 2009
+
+    Windows CE (including versions 1,2,3,4,5,6)
+
+    Windows CE for Automotive
+
+    Pocket PC (including versions 2000, 2002)
+
+    Windows Mobile
+
 
 # Principles
 * Maximum speed, ease-of-use and efficiency
