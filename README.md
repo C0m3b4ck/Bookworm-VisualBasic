@@ -2,8 +2,8 @@
 <br>![GitHub All Releases](https://img.shields.io/github/downloads/C0m3b4ck/Bookworm-VisualBasic/total)
 # Bookworm Visual Basic 6
 Version of the library management program Bookworm but in Visual Basic 6.0. 
-<br>
-<br><b>Supports all versions of Windows, from Windows 95 up to Windows 11:</b>
+# Supported OSes
+<b>Supports all versions of Windows, from Windows 95 up to Windows 11:</b>
 
     Windows 95
 
@@ -20,7 +20,7 @@ Version of the library management program Bookworm but in Visual Basic 6.0.
     Windows XP (tested: x86, x32 and 64-bit, Home, Professional)
 
     Windows Server (all versions including 2003, Small Business Server 2003, 2003 R2, Home Server,
-    2008, Small Business Server 2008, 2012, 2012 R2, 2016, 2019, 2022)
+    2008, Small Business Server 2008, 2012, 2012 R2, 2016, 2019, 2022, 2025)
 
     Windows Vista
 
@@ -46,7 +46,7 @@ Version of the library management program Bookworm but in Visual Basic 6.0.
 
     Windows Embedded POSReady 2009
 
-    Windows CE (including versions 1,2,3,4,5,6)
+    Windows CE (including versions 1, 2, 3, 4, 5, 6, .NET 4.1, .NET 4.2)
 
     Windows CE for Automotive
 
@@ -64,7 +64,7 @@ Version of the library management program Bookworm but in Visual Basic 6.0.
 
 # Why?
 * Python (original) version was becoming more bloated, convoluted and harder to compile with problematic dependencies.
-* Visual Basic has greater compatibility - it supports from Windows 95 up to Windows 11 (Windows 98, Windows NT 4.0 and 4.1, Windows 2000, Windows ME, Windows XP, Windows Vista, Windows 7, Windows 8 and 8.1, Windows 10, Windows 11), including Windows Server NT 4.0, Widows Server 2000, Widows Server 2003, Widows Server 2008, Widows Small Business Server 2008, Widows Server 2012, Widows Server 2012 R2, Widows Server 2016, Widows Server 2019, Widows Server 2022, Widows Server 2025, Windows CE 1.0, Windows CE 2.0, Windows CE 2.1, Windows CE 2.11, Windows CE 2.12, Windows CE 3.0, Windows CE .NET 4.1, Windows CE .NET 4.2 
+* Visual Basic has greater compatibility - it supports from Windows 95 up to Windows 11, including Windows Server and other versions of Windows <b>(see #Supported OSes for more)</b>
 * As I have been using the program's Python version, I have noticed many QoL fixes that I need to implement
 
 # Author
