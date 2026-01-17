@@ -32,7 +32,7 @@ Started on November 15th, 2025 by C0m3b4ck. Some code from Kaustubh Navnath Kulk
 <h3>Windows 98</h3>
 <img title="Windows 98" alt="Image from Windows 98" src="https://github.com/C0m3b4ck/Bookworm-VisualBasic/blob/main/screenshots/win98-2.png">
 <h3>Windows 2000</h3>
-<img title="Windows 2000" alt="Image from Windows 2000" src="https://github.com/C0m3b4ck/Bookworm-VisualBasic/blob/main/screenshots/win2000.png">
+<img title="Windows 2000" alt="Image from Windows 2000" src="https://github.com/C0m3b4ck/Bookworm-VisualBasic/blob/main/screenshots/win2000-2.png">
 <h3>Windows XP</h3>
 <img title="Windows XP" alt="Image from Windows XP" src="https://github.com/C0m3b4ck/Bookworm-VisualBasic/blob/main/screenshots/winXP.png">
 <h3>Windows 7</h3>
