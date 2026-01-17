@@ -3,7 +3,7 @@
 # Bookworm Visual Basic 6
 Version of the library management program Bookworm but in Visual Basic 6.0. 
 <br>
-<br><b>Supports from Windows 95 up to Windows 11 (Windows 95, Windows 98, Windows NT 4.1+, Windows 2000, Windows ME, Windows XP, Windows Vista, Windows 7, Windows 8 and 8.1, Windows 10, Windows 11)</b>
+<br><b>Supports from Windows 95 up to Windows 11 (Windows 95, Windows 98, Windows NT 4.0 and 4.1 (like all NT versions), Windows 2000, Windows ME, Windows XP, Windows Vista, Windows 7, Windows 8 and 8.1, Windows 10, Windows 11)</b>
 <br><b>Supports Windows Server: Windows Server NT 4.0, Widows Server 2000, Widows Server 2003, Widows Server 2008, Widows Small Business Server 2008, Widows Server 2012, Widows Server 2012 R2, Widows Server 2016, Widows Server 2019, Widows Server 2022, Widows Server 2025
 <br>Supports Windows CE: Windows CE 1.0, Windows CE 2.0, Windows CE 2.1, Windows CE 2.11, Windows CE 2.12, Windows CE 3.0, Windows CE .NET 4.1, Windows CE .NET 4.2 
 <br>
