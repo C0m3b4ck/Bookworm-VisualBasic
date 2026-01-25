@@ -2,6 +2,7 @@
 <br>![GitHub All Releases](https://img.shields.io/github/downloads/C0m3b4ck/Bookworm-VisualBasic/total)
 # Bookworm Visual Basic 6
 Version of the library management program Bookworm but in Visual Basic 6.0. 
+For the unsupported, broken Python version, visit <a href=https://github.com/C0m3b4ck/Bookworm> here.</a>
 # Supported OSes
 <b>Supports all versions of Windows, from Windows 95 up to Windows 11:</b>
 
@@ -17,10 +18,12 @@ Version of the library management program Bookworm but in Visual Basic 6.0.
 
     Windows Me
 
-    Windows XP (tested: x86, x32 and 64-bit, Home, Professional)
+    Windows XP (tested: x86, x32 and 64-bit, Home, Professional, includes: Starter, Tablet PC, Media Center, Embedded)
 
     Windows Server (all versions including 2003, Small Business Server 2003, 2003 R2, Home Server,
     2008, Small Business Server 2008, 2012, 2012 R2, 2016, 2019, 2022, 2025)
+
+    Windows Embedded versions, including: Windows Embedded for Point of Service, Windows Embedded Standard 2009, Windows Embedded POSReady 2009
 
     Windows Vista
 
@@ -36,23 +39,20 @@ Version of the library management program Bookworm but in Visual Basic 6.0.
 
     (probable future desktop OS from Microsoft)
 
-<br><b>Untested, yet probably supported:</b>
+<br><b>Will require rewrite (BookwormNET) due to architecture differences:</b>
 
-    Windows XP versions: Starter, Tablet PC, Media Center, Embedded
-
-    Windows Embedded for Point of Service
-
-    Windows Embedded Standard 2009
-
-    Windows Embedded POSReady 2009
-
-    Windows CE (including versions 1, 2, 3, 4, 5, 6, .NET 4.1, .NET 4.2)
+    Windows CE (including versions 1, 2, 3, 4, 5, 6, .NET 4.1, .NET 4.2, 7, 2013)
 
     Windows CE for Automotive
 
     Pocket PC (including versions 2000, 2002)
 
     Windows Mobile
+
+<br><b>Will not be supported: </b></br>
+
+* All Xbox OSes
+* Windows CE 1.0 (requires DOS-like C compilation)
 
 
 # Principles
