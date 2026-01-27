@@ -10,7 +10,7 @@ For the unsupported, broken Python version, visit <a href=https://github.com/C0m
 
     Windows NT 4.0
 
-    Windows 98
+    Windows 98 
 
     Windows 98 SE
 
@@ -69,6 +69,9 @@ For the unsupported, broken Python version, visit <a href=https://github.com/C0m
 
 # Author
 Started on November 15th, 2025 by C0m3b4ck. Some code from Kaustubh Navnath Kulkarni has been used in parts.
+
+# Bugs
+* ActiveX error 429 when clicking Loans button on Windows 95 (probably a packaging issue)
 
 # Screenshots
 <h3>Windows 95</h3>
