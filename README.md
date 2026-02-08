@@ -1,6 +1,6 @@
 <a href=https://github.com/C0m3b4ck/Bookworm-VisualBasic/blob/main/README_PL.md>🇵🇱🇵🇱🇵🇱🇵🇱🇵🇱POLSKA WERSJA🇵🇱🇵🇱🇵🇱🇵🇱🇵🇱🇵🇱</a>
 <br>![GitHub All Releases](https://img.shields.io/github/downloads/C0m3b4ck/Bookworm-VisualBasic/total)
-<img title="Made in Europe" alt="Made in Europe" src="https://github.com/C0m3b4ck/Bookworm-VisualBasic/blob/main/screenshots/MADEINEUROPE.webp">
+<br><b>🇪🇺🇪🇺🇪🇺Made in Europe🇪🇺🇪🇺🇪🇺
 # Bookworm Visual Basic 6
 Version of the library management program Bookworm but in Visual Basic 6.0. 
 For the unsupported, broken Python version, visit <a href=https://github.com/C0m3b4ck/Bookworm> here.</a>
