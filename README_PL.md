@@ -1,5 +1,5 @@
 <a href=https://github.com/C0m3b4ck/Bookworm-VisualBasic/README.md>🌐🌐🌐🌐🌐ENGLISH VERSION🌐🌐🌐🌐🌐
-<br><b>🇪🇺🇪🇺🇪🇺Made in Europe🇪🇺🇪🇺🇪🇺</a>
+<br><b>🇪🇺🇪🇺🇪🇺Stworzony w Europie🇪🇺🇪🇺🇪🇺</a>
 <br>![GitHub All Releases](https://img.shields.io/github/downloads/C0m3b4ck/Bookworm-VisualBasic/total)
 # Bookworm Visual Basic 6
 Wersja programu do zarządzania biblioteką, Bookworm, stworzony w języku Visual Basic 6.0 <br><b><i>Wspiera: Windows 98, Windows 2000, Windows NT 4.1, Windows ME, Windows XP, Windows Vista, Windows 7, Windows 8, Windows 10, Windows 11</i></b>
