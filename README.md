@@ -22,7 +22,7 @@ Version of the library management program Bookworm but in Visual Basic 6.0.
 <img src="badges/11.svg" alt="Windows 11" width="128" height="128" />
 
 </div>
-The badges are meant to represent compatibility. For this reason, no badges without the word "compatibility" or with the word "certified" have been used. This project is not endorsed nor certified by Microsoft.
+The badges are meant to represent compatibility. For this reason, no badges with the word "certified" have been used. This project is not endorsed nor certified by Microsoft.
 Downloaded from https://logos.fandom.com/wiki/Microsoft_Windows/Compatible
 
 <br><b>Supports all versions of Windows, from Windows 95 up to Windows 11:</b>
